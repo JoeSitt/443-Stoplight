@@ -1,0 +1,4 @@
+Running: xsim.dir/stop_light_behav/xsimk.exe -simmode gui -wdb stop_light_behav.wdb -simrunnum 0 -socket 50872
+Design successfully loaded
+Design Loading Memory Usage: 7960 KB (Peak: 7960 KB)
+Design Loading CPU Usage: 93 ms

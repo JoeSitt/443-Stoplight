@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/EECS443/lab8/q1/q1.srcs/sources_1/imports/sources/math_real.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/EECS443/lab9/7seg_disp_fsm/7seg_disp_fsm.srcs/sources_1/new/d_ff_int.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity D_ff_int
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/EECS443/lab9/7seg_disp_fsm/7seg_disp_fsm.srcs/sources_1/new/d_ff_sync_reset.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity D_ff_sync_reset
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/EECS443/lab8/q1/q1.srcs/sources_1/imports/sources/math_real-body.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/EECS443/lab9/7seg_disp_fsm/7seg_disp_fsm.srcs/sources_1/new/sevenseg_disp.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sevenseg_disp
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/EECS443/lab9/7seg_disp_fsm/7seg_disp_fsm.srcs/sources_1/new/to_7seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity to_7seg
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/EECS443/Final_project/Final_project.srcs/sources_1/new/stop_light.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity stop_light

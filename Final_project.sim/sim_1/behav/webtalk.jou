@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Wed May  2 08:05:44 2018
+# Process ID: 560
+# Current directory: H:/EECS443/Final_project/Final_project.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source H:/EECS443/Final_project/Final_project.sim/sim_1/behav/xsim.dir/stop_light_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: H:/EECS443/Final_project/Final_project.sim/sim_1/behav/webtalk.log
+# Journal file: H:/EECS443/Final_project/Final_project.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source H:/EECS443/Final_project/Final_project.sim/sim_1/behav/xsim.dir/stop_light_behav/webtalk/xsim_webtalk.tcl -notrace

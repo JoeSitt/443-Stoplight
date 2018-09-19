@@ -1,0 +1,1 @@
+-wto "8110430ed1d442d39ac9911b7f6256a4" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "stop_light_behav" "xil_defaultlib.stop_light" -log "elaborate.log" 
